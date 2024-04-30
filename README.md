@@ -13,8 +13,8 @@
 -->
 ### 🎯 Targeting：
 
-![Static Badge](https://img.shields.io/badge/Data-Science-e38519?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Machine-Learning-46b37e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Data-Science-e38519?style=for-the-badge)&nbsp;
+![Static Badge](https://img.shields.io/badge/Machine-Learning-46b37e?style=for-the-badge)&nbsp;
 ![Static Badge](https://img.shields.io/badge/AI-engineering-b162e3?style=for-the-badge)
 <!--
 <p>
@@ -24,9 +24,9 @@
 -->
 ### 🛠 Equipment：
 
-![Static Badge](https://img.shields.io/badge/Master%3A-212b3b?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-1a4563?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Master%3A-212b3b?style=for-the-badge)&nbsp;
+![Static Badge](https://img.shields.io/badge/Python-1a4563?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Static Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Good%3A-212b3b?style=flat-square)
