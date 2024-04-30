@@ -34,12 +34,14 @@
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/SAS-145ca2?style=flat-square&logo=sas)
 
 ![Static Badge](https://img.shields.io/badge/tools%3A-212b3b?style=flat-square)
 ![](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=flat-square&logo=GitHub-Copilot&logoColor=white)
+![](https://img.shields.io/badge/Docker-2189d9.svg?style=flat-square&logo=Docker&logoColor=white)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxjeru&show_icons=true&theme=tokyonight&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
