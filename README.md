@@ -47,10 +47,13 @@
 ![](https://img.shields.io/badge/Docker-2189d9.svg?style=flat-square&logo=Docker&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxjeru&show_icons=true&theme=tokyonight&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-rho-two-55.vercel.app/api?username=sxjeru&show_icons=true&theme=tokyonight&card_width=445&show=discussions_answered,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
+[![Top Langs](https://github-readme-stats-rho-two-55.vercel.app/api/top-langs/?username=sxjeru&layout=compact&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="left">
   <p>
   <img src="https://img.shields.io/badge/Master%3A-212b3b?style=for-the-badge">
@@ -91,7 +94,6 @@
 ![](https://img.shields.io/badge/Kaggle-157da8.svg?style=flat-square&logo=Kaggle&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=Vercel&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxjeru&layout=compact&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 **sxjeru/sxjeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
